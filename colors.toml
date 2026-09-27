@@ -1,0 +1,35 @@
+mode = "dark"
+
+# Rain-black foundation with electric reflections and sodium-vapour warmth.
+accent = "#25D0D0"
+selection = "#244A52"
+muted = "#6E7F86"
+
+background = "#0B1118"
+dark_background = "#080D14"
+darker_background = "#05090E"
+lighter_background = "#14232C"
+
+foreground = "#D7E3E3"
+dark_foreground = "#6E7F86"
+light_foreground = "#A9BEC1"
+bright_foreground = "#F1F7F6"
+
+red = "#E65A64"
+yellow = "#E8C66A"
+orange = "#F28C28"
+green = "#7FCB9A"
+cyan = "#25D0D0"
+blue = "#4E9DC4"
+magenta = "#D64B9A"
+brown = "#9B6A4A"
+
+bright_red = "#FF7881"
+bright_yellow = "#FFE08A"
+bright_green = "#9BE6B5"
+bright_cyan = "#5CE8E2"
+bright_blue = "#75C0E6"
+bright_magenta = "#F174BB"
+
+selection_background = "#244A52"
+selection_foreground = "#F1F7F6"
